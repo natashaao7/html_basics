@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head> 
+    <h2>Regestration Page</h2>
+<body>
+    <form>
+     <label for="fname">Firstname:</label>
+     <input type="text" id="fname" name="fname" required placeholder="Enter first name"><br><br>
+     <label for="lname">Last Name</label>
+     <input type="text" id="lname" name="lname" required placeholder="Enter last name"><br><br>
+     <label for="email">Email Address</label>
+     <input type="email" id="email" name="email" required placeholder="Enter email address"><br><br>
+     <label for="dob">Date Of Birth</label>
+     <input type="date" id="dob" name="dob"><br><br>
+     <label for="pass">Password</label>
+     <input type="password" id="pass" name="pass"><br><br>
+     <label for="female">Female</label>
+     <input type="radio" id="female" name="gender">
+     <label for="male">Male</label>
+     <input type="radio" id="maele" name="gender">
+     <label for="custom">Custom</label>
+     <input type="radio" itemid="custom" name="gender"><br><br>
+
+     <label for="course">Course</label>
+     <select name="course" id="course">
+            <option value="js">Javascript</option>
+            <option value="ds">Datascience</option>
+            <option value="cs">Cyber Security</option>
+            <option value="rj">Reactjs</option>
+            <option value="dev">Devops</option>
+
+        </select><br><br>
+        <label for="uploas">Upload picture</label>
+        <input type="file" id="uploas"><br><br>
+
+     <input type="submit" value="Register">
+
+    </form>
+
+    
+</body>
+</html>

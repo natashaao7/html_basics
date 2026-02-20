@@ -1,0 +1,27 @@
+.fruits{
+    color: gold;
+    border: 2px;
+    background-color:teal ;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.football{
+    color: gold;
+    border: 2px;
+    background-color:teal;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#id{
+    color: gold;
+    border: 2px;
+    background-color: teal;
+    padding: 15px;
+    margin: 15px; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
