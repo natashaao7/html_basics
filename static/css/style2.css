@@ -16,12 +16,12 @@
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
-#id{
+#computers{
     color: gold;
     border: 2px;
-    background-color: teal;
+    background-color:teal;
     padding: 15px;
-    margin: 15px; 
+    margin:15px ;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
